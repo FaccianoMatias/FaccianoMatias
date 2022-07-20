@@ -1,0 +1,12 @@
+Google Doc
+
+
+Actualice la parte de HEAD:
+
+<meta name="Description" content="Página de presentación. Venta de productos relacionados a la práctica del Mate. Termos, yerba, mates, bombillas y demás elementos.">
+<meta name="keywords" content="Mate, yerba, bombilla, cebar, termos">
+
+
+Títulos:
+
+No los actualice porque ya los había pensado en base al SEO. No son títulos innovadores, pero están enfocados a la temática.
