@@ -32,7 +32,6 @@ $paletaColor: (
 }
 
 .Th2 {
-    background-color: map-get($map: $paletaColor , $key:'uno');
     font-size: $Letra1;
     font-style: normal;
     font-weight: 600;
@@ -113,3 +112,11 @@ p {
     padding: 10px;
     line-height: 2rem;
 }
+
+$container-max-widths: (
+    sm: 540px,
+    md: 720px,
+    lg: 960px,
+    xl: 1140px,
+    xxl: 1320px
+);
